@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pytagon\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\AngularAndAdapter.csproj",
+      "projectUniqueName": "D:\\Pytagon\\Pitagon_onGit\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\AngularAndAdapter.csproj",
       "projectName": "AngularAndAdapter",
-      "projectPath": "D:\\Pytagon\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\AngularAndAdapter.csproj",
+      "projectPath": "D:\\Pytagon\\Pitagon_onGit\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\AngularAndAdapter.csproj",
       "packagesPath": "C:\\Users\\lam\\.nuget\\packages\\",
-      "outputPath": "D:\\Pytagon\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\obj\\",
+      "outputPath": "D:\\Pytagon\\Pitagon_onGit\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lam\\AppData\\Roaming\\NuGet\\NuGet.Config",

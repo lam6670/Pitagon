@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Re7GS2OWDi2eyc2SNQekMyE3ceAdubefyaAZPYswJUvi35stMsNnvibq/ABcSNee7zabQGmlC4G06SIEBgkmUQ==",
+  "dgSpecHash": "FCZSFAi4qeNUPwiAENX5VdOJ10uMrYEWoSUtdrk89xVRJx2VfvxKRUD3VxSgWdoKZYQBjuPOHHqdSSYHusWwkA==",
   "success": true,
-  "projectFilePath": "D:\\Pytagon\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\AngularAndAdapter.csproj",
+  "projectFilePath": "D:\\Pytagon\\Pitagon_onGit\\ConvertData\\AngularAndAdapter\\AngularAndAdapter\\AngularAndAdapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lam\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lam\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
